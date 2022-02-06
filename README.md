@@ -1,6 +1,6 @@
 # Cursos_Ciberseguranca
 Lista de cursos de segurança em português.
-A ideia deste repositório é listar cursos gratuitos em português da área de cibersegurança.
+A idéia deste repositório é listar cursos gratuitos apenas em português da área de cibersegurança.
 
 
 ## Cursos Básicos/Introdução
